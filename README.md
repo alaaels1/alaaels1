@@ -1,51 +1,81 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+there+%F0%9F%91%8B+I'm+Alaa+Ayman+%F0%9F%91%A7%F0%9F%8F%BB&left=true&vCenter=true&pause=1000&width=400&height=45&color=1E90FF&repeat=false" alt="typing animation" />
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://github.com/alaaels1/alaaels1/blob/main/githubHeader.gif" width="500"/>
 </p>
 
 
----
 
-🎓 **CS Student @ AOU** | **Flutter Developer**  
-📱 I develop mobile apps using Flutter with clean and scalable code  
-🌱 Currently learning **MVVM architecture**, **Firebase**, and **Supabase**  
-💡 Passionate about building apps that solve real-world problems  
-📫 Reach me at: **alaa.elsaidy.dev@gmail.com**  
-⚡ Fun fact: I love cooking and watching adventure & sci-fi movies when I’m not coding!
+<h2> 🚀 About Me </h2>
 
----
+🎓 &nbsp;**Computer Science student** at AOU  
+📱 &nbsp;**Flutter Developer** passionate about building beautiful and functional mobile apps  
+🧠 &nbsp;Currently learning: **MVVM Architecture**, **Firebase**, **Supabase**  
+🌟 &nbsp;I enjoy turning ideas into real-world solutions through code  
+🎬 &nbsp;In my free time, I love cooking and watching **adventure & sci-fi** movies
 
-### 📊 GitHub Stats
+<br/>
 
-[![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaaels1&show_icons=true&theme=tokyonight)](https://github.com/alaaels1/github-readme-stats)
+<h2> 📊 GitHub Stats </h2><br/>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaaels1&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Alaa's GitHub Stats" />
+</p><br/>
 
-### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/alaaelsaidy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@alaaelsaedy3232" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/alaa_ayman1" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/s21511831eg" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/spider_programmer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://leetcode.com/alaaayman1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+
+<h2> 🌐 Connect With Me </h2> <br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alaaelsaidy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@alaaelsaedy3232" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/alaa_ayman1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/s21511831eg" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/spider_programmer" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/alaaayman1" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </p>
 
----
+<br/>
 
-### 🛠 Languages and Tools
+<h2> 🛠 Tech Stack </h2><br/>
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://supabase.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<br/>
+
+<h2 align="center">📈 Profile Visitors</h2><br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alaaels1&label=Profile%20Views&color=1E90FF&style=flat-square" alt="alaaels1" />
+</p>
+
+
+
+<p align="center">
+  💻 Made by <strong>Alaa Ayman</strong> • Last updated: <i>2025</i><br/>
+  📬 Reach out: <a href="mailto:alaa.elsaidy.dev@gmail.com">alaa.elsaidy.dev@gmail.com</a>
 </p>
