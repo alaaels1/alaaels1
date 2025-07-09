@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://github.com/alaaels1/alaaels1/blob/main/githubHeader.gif" width="500"/>
+  <img src="https://github.com/alaaels1/alaaels1/blob/main/githubHeader.gif" width=100% />
 </p>
 
 
@@ -17,7 +17,7 @@
 
 <h2> 📊 GitHub Stats </h2><br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alaaels1&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Alaa's GitHub Stats" />
 </p><br/>
 
@@ -26,7 +26,7 @@
 <h2> 🌐 Connect With Me </h2> <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alaaelsaidy" target="_blank">
+  <a href="https://www.linkedin.com/in/alaa-elsaidy-976596229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@alaaelsaedy3232" target="_blank">
