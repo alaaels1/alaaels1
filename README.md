@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/alaa-elsaidy-976596229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@alaaelsaedy3232" target="_blank">
+  <a href="https://www.youtube.com/@AlaaAyman81" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/alaa_ayman1" target="_blank">
