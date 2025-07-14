@@ -5,10 +5,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/alaaels1/alaaels1/03d4fa4d3ad10a50c5cf73ced9b5a83e671a1449/Flutter%20Developer%20(2).svg" height =120 width=100% />
 </p>
+<p align="center">
+   <a href="mailto:alaa.elsaidy.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/alaa-elsaidy-976596229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 
+<p/>
 
-<h2> 🚀 About Me </h2>
+
+<h2>👩🏻‍💻 About Me </h2>
+<img src="https://github.com/alaaels1/alaaels1/blob/assets/tenor.gif?raw=true" align="right" width= "250" height="300" />
 
 🎓 &nbsp;**Computer Science student** at AOU  
 📱 &nbsp;**Flutter Developer** passionate about building beautiful and functional mobile apps  
@@ -26,12 +36,10 @@
 
 
 
-<h2> 🌐 Connect With Me </h2> <br/>
+<h2> 💻 Follow My Work </h2> <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alaa-elsaidy-976596229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
   <a href="https://www.youtube.com/@AlaaAyman81" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -47,6 +55,7 @@
   <a href="https://leetcode.com/alaaayman1" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
+ 
 </p>
 
 <br/>
@@ -78,7 +87,5 @@
 
 
 
-<p align="center">
-  💻 Made by <strong>Alaa Ayman</strong> • Last updated: <i>2025</i><br/>
-  📬 Reach out: <a href="mailto:alaa.elsaidy.dev@gmail.com">alaa.elsaidy.dev@gmail.com</a>
-</p>
+
+
