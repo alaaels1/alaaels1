@@ -1,6 +1,9 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://github.com/alaaels1/alaaels1/blob/main/githubHeader.gif" width=100% />
+  <img src="https://raw.githubusercontent.com/alaaels1/alaaels1/03d4fa4d3ad10a50c5cf73ced9b5a83e671a1449/Hi%2C%20I'm%20Alaa%20Ayman%20(3).svg" width=100% />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alaaels1/alaaels1/03d4fa4d3ad10a50c5cf73ced9b5a83e671a1449/Flutter%20Developer%20(2).svg" height =120 width=100% />
 </p>
 
 
