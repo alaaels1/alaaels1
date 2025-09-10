@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/alaa-elsaidy-976596229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
 
 
 <p/>
@@ -24,7 +25,7 @@
 📱 &nbsp;**Flutter Developer** passionate about building beautiful and functional mobile apps  
 🧠 &nbsp;Currently learning: **MVVM Architecture**, **Firebase**, **Supabase**  
 🌟 &nbsp;I enjoy turning ideas into real-world solutions through code  
-🎬 &nbsp;In my free time, I love cooking and watching **adventure & sci-fi** movies
+🎬 &nbsp;In my free time, I love cooking and watching **adventure & science fiction** movies
 
 <br/>
 
