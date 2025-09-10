@@ -18,8 +18,8 @@
 
 
 <h2>👩🏻‍💻 About Me </h2>
-<img src="https://github.com/alaaels1/alaaels1/blob/assets/tenor.gif?raw=true" align="right" width= "250" height="300" />
-
+<!-- <img src="https://github.com/alaaels1/alaaels1/blob/assets/tenor.gif?raw=true" align="right" width= "250" height="300" />
+ -->
 🎓 &nbsp;**Computer Science student** at AOU  
 📱 &nbsp;**Flutter Developer** passionate about building beautiful and functional mobile apps  
 🧠 &nbsp;Currently learning: **MVVM Architecture**, **Firebase**, **Supabase**  
