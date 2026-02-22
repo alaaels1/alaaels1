@@ -32,8 +32,9 @@
 <h2> 📊 GitHub Stats </h2><br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaaels1&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Alaa's GitHub Stats" />
-</p><br/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/alaaels1?cardType=github&theme=tokyonight&fontFamily=ABeeZee&preferLogin=false" alt="Alaa's GitHub Stats" />
+</p>
+<br/>
 
 
 
