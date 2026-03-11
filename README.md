@@ -23,11 +23,10 @@
 <h2>👩🏻‍💻 About Me </h2>
 <!--  <img src="https://github.com/alaaels1/alaaels1/blob/assets/tenor.gif?raw=true" align="right" width= "250" height="300" /> -->
 
-🎓 &nbsp;**Computer Science student** at AOU  
+🎓 &nbsp;**Computer Science graduate** from AOU  
 📱 &nbsp;**Flutter Developer** passionate about building beautiful and functional mobile apps  
-🧠 &nbsp;Currently learning: **MVVM Architecture**, **Firebase**, **Supabase**  
-🌟 &nbsp;I enjoy turning ideas into real-world solutions through code  
-🎬 &nbsp;In my free time, I love cooking and watching **adventure & science fiction** movies
+🧠 &nbsp;Continuing to learn and grow: **MVVM Architecture**, **Firebase**, **Supabase**  
+🌟 &nbsp;I enjoy turning ideas into real-world solutions through code and creating impactful projects  
 
 <br/>
 
